@@ -4,6 +4,16 @@
       "id": 1,
       "title": "API POST",
       "content": "Content for my post"
+    },
+    {
+      "title": "Updated Third post",
+      "content": "Third content",
+      "id": 3
+    },
+    {
+      "title": "Test post",
+      "content": "oiajwdoi awido ",
+      "id": 4
     }
   ]
 }
